@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Spigot Plugin Development**
 
-- ⚡ Fun fact **I'm an npc.**
+- ⚡ Fun fact **It's a cannon event bro.**
 
 <h3 align="left">I am on:</h3>
 <p align="left">
