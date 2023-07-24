@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadat Sahib</h1>
 <h3 align="center">A Java developer from Bangladesh!</h3>
 
-- 🔭 I’m currently working on **PixelPractice** (Try at play.pixeledge.club)
+- 🔭 I’m currently working on **MinexPractice** (Try at play.minexpvp.com)
 
 - 📫 How to reach me **Discord @ssquadteam**
 
