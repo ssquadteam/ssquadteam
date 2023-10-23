@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Spigot Plugin Development & Game Development**
 
-- ⚡ Fun fact **It's a cannon event bro.**
+- ⚡ Fun fact **Java sucks just use Kotlin at this point.**
 
 <h3 align="left">I am on:</h3>
 <p align="left">
