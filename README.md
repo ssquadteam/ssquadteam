@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Forge and Fabric Mod Development**
 
-- 💬 Ask me about **Spigot Plugin Development**
+- 💬 Ask me about **Spigot Plugin Development & Game Development**
 
 - ⚡ Fun fact **It's a cannon event bro.**
 
