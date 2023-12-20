@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sadat Sahib</h1>
 <h3 align="center">A Java developer from Bangladesh!</h3>
 
-- 🔭 I’m currently working on **MinexPractice** (Try at play.minexpvp.com)
+- 🔭 I’m currently working on **Nothing** (Will be updated soon!)
 
-- 📫 How to reach me **Discord @ssquadteam**
+- 📫 How to reach me **Discord @ssquadteam or Instagram @aura_cxv7**
 
-- 🌱 I’m currently learning **Forge and Fabric Mod Development**
+- 🌱 I’m currently learning **Java Machine Learning**
 
-- 💬 Ask me about **Spigot Plugin Development & Game Development**
+- 💬 Ask me about **Unreal Engine Development & Spigot / Bukkit Plugin Development**
 
-- ⚡ Fun fact **Java sucks just use Kotlin at this point.**
+- ⚡ Fun fact **Kotlin is compatible with Java Code.**
 
 <h3 align="left">I am on:</h3>
 <p align="left">
