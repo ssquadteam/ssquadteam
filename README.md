@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="images/image3.jpg" width="250" align="left">
+  <img src="banner.png" width="250" align="left">
   <p float="left">
     <samp>
       i'm sadat | 14 | he/him
