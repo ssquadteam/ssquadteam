@@ -23,6 +23,7 @@
       <br>
       dumb projects include:
       <br>
+      <a href="https://github.com/ssquadteam/ApiaryProxy">velocity fork, best minecraft proxy<3</a><br>
       <a href="https://github.com/ssquadteam/ApiaryMC">folia fork, bukkit plugin support</a><br>
       <a href="https://github.com/ssquadteam/Pixolia">folia fork, nothing unique smh</a><br>
       <a href="https://github.com/ssquadteam/Pixel-Practice">1.8 practice core, very cool and os</a><br>
