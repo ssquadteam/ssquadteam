@@ -26,6 +26,7 @@
       <a href="https://github.com/ssquadteam/ApiaryProxy">velocity fork, best minecraft proxy<3</a><br>
       <a href="https://github.com/ssquadteam/ApiaryMC">folia fork, bukkit plugin support</a><br>
       <a href="https://github.com/ssquadteam/Pixolia">folia fork, nothing unique smh</a><br>
+      <a href="https://github.com/ssquadteam/Beef">depricated pufferfish fork, decent performance</a><br>
       <a href="https://github.com/ssquadteam/Pixel-Practice">1.8 practice core, very cool and os</a><br>
       <a href="https://github.com/ssquadteam/Pixel-Practice">1.21 gamemode core, very fun and os</a><br>
       <br>
