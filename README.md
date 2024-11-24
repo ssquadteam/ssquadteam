@@ -29,7 +29,6 @@
       <a href="https://github.com/ssquadteam/Beef">depricated pufferfish fork, decent performance</a><br>
       <a href="https://github.com/ssquadteam/Pixel-Practice">1.8 practice core, very cool and os</a><br>
       <a href="https://github.com/ssquadteam/Pixel-Practice">1.21 gamemode core, very fun and os</a><br>
-      <br>
       <a href="https://kotlinlang.org/">Kotlin >> Java</a><br>
       <br>
     </samp>
