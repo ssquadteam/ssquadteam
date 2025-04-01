@@ -13,7 +13,7 @@
       I do system administration, bukkit and fabric development & networking shiz etc
       <br>
       <br>
-      currently working at [BMS](https://github.com/Bangladesh-Minecraft-Society)
+      currently working at <a href="https://github.com/Bangladesh-Minecraft-Society">BMS</a>
       <br>
       <br>
       insta: 
