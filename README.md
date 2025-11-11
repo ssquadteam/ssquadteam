@@ -19,7 +19,7 @@
       insta: 
       <a href="https://instagram.com/iamcxv7">@iamcxv7</a><br>
       contact: 
-      <a href="mailto:sahib.2009.sa@gmail.com">auracxv7@gmail.com</a><br>
+      <a href="mailto:sahib.2009.sa@gmail.com">sahib.2009.sa@gmail.com</a><br>
       <br>
       dumb projects include:
       <br>
